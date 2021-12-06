@@ -10,4 +10,5 @@ A template for a blockchain based social network.
 - npm install -g solc
 4. Clone the repository
 - gh repo clone yuvallavie/Blockchain-SocialNetwork
+- cd Blockchain-SocialNetwork
 5. Follow the instructions on App.js
